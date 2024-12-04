@@ -107,7 +107,7 @@ $files = page('blog')
 
 ## Filtering by methods
 
-You cannot only filter by custom field methods in your content files but also by methods of a pages', files', users' collection. Here are some examples:
+You cannot only filter by custom field methods in your content files but also by methods of a page, file or user. Here are some examples:
 
 ### Pages
 
